@@ -12,11 +12,11 @@
   <br />
   - 3 star coder at <a href="https://www.codechef.com/users/kundansurve">Codechef</a>
   <br />
-  - 5 star problem solver at [HackerRank](https://www.hackerrank.com/kundansurve01)
+  - 5 star problem solver at <a href="https://www.hackerrank.com/kundansurve01">HackerRank</a>
 <br />
 - contact me anytime to have techtalk.
 <br />
-- [LinkedIn]((https://www.linkedin.com/in/kundan-surve-593b841aa/)
+- LinkedIn profile:<a href="https://www.linkedin.com/in/kundan-surve-593b841aa/">kundansurve</a>
 <br />
 <br />
 
