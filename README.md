@@ -1,11 +1,5 @@
-### Hi there 👋
 
-<!--
-**kundansurve/kundansurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-**HELLO! Myself Kundan**
+### Hi there 👋Myself Kundan
 - I am a Software Developer!
 - I am a Tech Enthusiast
 - Student at Modern Education Society's College of Engineering, Pune,
@@ -34,4 +28,4 @@ Here are some ideas to get you started:
 
 
 - Hobbies- cricket, football, dance, travelling
--->
+
