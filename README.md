@@ -1,15 +1,24 @@
 
-### Hi there 👋Myself Kundan
+### Hi there 👋Myself Kundan Surve
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="450" height="320" />
 - I am a Software Developer!
+<br />
 - I am a Tech Enthusiast
+<br />
 - Student at Modern Education Society's College of Engineering, Pune,
+<br />
 - I am a Competitive Programmer as well. Here are my Profiles-
+  <br />
   - 3 star coder at [Codechef](https://www.codechef.com/users/kundansurve)
+  <br />
   - 5 star problem solver at [HackerRank](https://www.hackerrank.com/kundansurve01)
+<br />
 - contact me anytime to have techtalk.
+<br />
 - Linkedin- [kundansurve](https://www.linkedin.com/in/kundan-surve-593b841aa/)
+<br />
+<br />
 
 *Technical Skills:*
 <br />
