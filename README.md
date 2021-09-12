@@ -10,13 +10,13 @@
 <br />
 - I am a Competitive Programmer as well. Here are my Profiles-
   <br />
-  - 3 star coder at [![Codechef]((https://www.codechef.com/users/kundansurve)]
+  - 3 star coder at [Codechef](https://www.codechef.com/users/kundansurve)
   <br />
-  - 5 star problem solver at [![HackerRank]((https://www.hackerrank.com/kundansurve01)]
+  - 5 star problem solver at [HackerRank](https://www.hackerrank.com/kundansurve01)
 <br />
 - contact me anytime to have techtalk.
 <br />
-- [![LinkedIn]((https://www.linkedin.com/in/kundan-surve-593b841aa/)]
+- [LinkedIn]((https://www.linkedin.com/in/kundan-surve-593b841aa/)
 <br />
 <br />
 
