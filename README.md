@@ -9,8 +9,8 @@
 - Student at Modern Education Society's College of Engineering, Pune,
 <br />
 - I am a Competitive Programmer as well. Here are some Profiles-
-  - 3 star coder at <a href="https://www.codechef.com/users/kundansurve">Codechef</a>
-  - 5 star problem solver at <a href="https://www.hackerrank.com/kundansurve01">HackerRank</a>
+  1. 3 star coder at <a href="https://www.codechef.com/users/kundansurve">Codechef</a>
+  2. 5 star problem solver at <a href="https://www.hackerrank.com/kundansurve01">HackerRank</a>
 <br />
 <br />
 - contact me anytime to have techtalk.
