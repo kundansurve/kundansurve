@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="450" height="320" />
 - I am a Software Developer!
 <br />
-- I am a Tech Enthusiast
+- I am a Tech Enthusiastic
 <br />
 - Student at Modern Education Society's College of Engineering, Pune,
 <br />
