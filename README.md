@@ -29,5 +29,5 @@
 <br />
   cricket, football, dance, travelling
 
-*Portfolio * https://kdsurve-portfolio.netlify.app/
+*Portfolio* https://kdsurve-portfolio.netlify.app/
 
