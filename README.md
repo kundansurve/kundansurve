@@ -24,7 +24,7 @@
 <br />
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/officel/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/material-outlined/48/ffffff/github.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <br/>
-<img align="center" alt="Kundan Surve's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kundansurve&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
+<img align="right" alt="Kundan Surve's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kundansurve&show_icons=true&hide_border=true&theme=cobalt&count_private=true" />
 <br/>
 *Hobbies*
 <br />
